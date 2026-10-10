@@ -184,5 +184,5 @@ Contributions, feature requests, and suggestions are warmly welcome!
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/MisterPugs">Denis (MisterPugs)</a> and the open-source community.</sub>
+  <sub>Built with ❤️ by <a href="https://github.com/MisterPugs">MisterPugs</a> and the open-source community.</sub>
 </div>
